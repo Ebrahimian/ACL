@@ -2,9 +2,9 @@
 baseline codes for multiWE
 
 Requires:
-Numpy
-TensorFlow
-Theano
+> Numpy
+> TensorFlow
+> Theano
 
 **Naive pattern matching**
 > python evaluation.py
